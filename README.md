@@ -84,5 +84,3 @@ The following classification models were trained and evaluated to predict cancel
 
 ---
 
-## 📂 Repository Structure
-
